@@ -1,4 +1,4 @@
-# ShoppingCart-vueJS
+#  VueJS ShoppingCart
 first view vueJS
 
 
